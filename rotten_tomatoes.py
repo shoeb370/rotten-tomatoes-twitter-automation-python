@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 23:24:01 2024
 
-@author: www.abcom.in
-"""
 # Importing packages
 import requests
 import pandas as pd
