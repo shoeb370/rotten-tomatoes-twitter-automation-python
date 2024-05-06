@@ -38,7 +38,7 @@ This project automates the posting of Rotten Tomatoes movie data on Twitter usin
 
 ## Twitter API Setup
 
-1. Create a Twitter developer account at [Twitter Developer](https://developer.twitter.com/).
+1. Create a Twitter developer account at [Twitter Developer](https://developer.twitter.com/en).
 2. Create a new app and note down the API key, API secret key, access token, and access token secret.
 3. Create a `config_tweet.ini` file in the project directory with the following format:
 
