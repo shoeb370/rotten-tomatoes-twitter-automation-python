@@ -28,12 +28,12 @@ This project automates the posting of Rotten Tomatoes movie data on Twitter usin
 4. Run the script:
 
    ```bash
-   python main.py
+   python rotten_tomatoes.py
    ```
 
 ## Usage
 
-- Customize the tweet content or frequency of posting in `main.py`
+- Customize the tweet content or frequency of posting in `rotten_tomatoes.py`
 - Ensure `already_posted_movie.csv` is present for tracking posted movies
 
 ## Twitter API Setup
@@ -61,7 +61,7 @@ The `post_tweet(tweet, file_name)` function in `post_tweet_v2.py` posts a tweet 
 ## Usage
 
 1. Ensure `config_tweet.ini` is correctly configured with your Twitter API credentials.
-2. Run the `main.py` script to fetch the latest movies from Rotten Tomatoes and post tweets about them on Twitter.
+2. Run the `rotten_tomatoes.py` script to fetch the latest movies from Rotten Tomatoes and post tweets about them on Twitter.
 
 
 ## Contributors
