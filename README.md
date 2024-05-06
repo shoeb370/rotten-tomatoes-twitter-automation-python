@@ -67,3 +67,9 @@ The `post_tweet(tweet, file_name)` function in `post_tweet_v2.py` posts a tweet 
 ## Contributors
 
 - [Shoeb Ahmed](https://github.com/shoeb370)
+## Sponsorship
+Thank you for considering supporting this project! Your sponsorship helps in maintaining and improving this project.
+
+Supported Funding Platforms:
+- PayPal: [Donate Now](https://www.paypal.me/shoeb370)
+Your contribution is greatly appreciated!
